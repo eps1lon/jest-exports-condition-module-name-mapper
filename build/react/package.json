@@ -1,0 +1,8 @@
+{
+  "name": "react",
+  "type": "commonjs",
+  "exports": {
+    "node": "./index.node.js",
+    "react-native": "./index.native.js"
+  }
+}
